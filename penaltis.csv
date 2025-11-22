@@ -1,0 +1,16 @@
+ID,Jugador,Velocidad_kmh,Angulo_grados,Distancia_Portero_m,Presion_Partido,Pie_Dominante,Gol (Target)
+1,A. G.,95,25,0.8,Alta,Derecho,1
+2,L. M.,78,10,0.5,Media,Izquierdo,0
+3,C. R.,110,35,1,Alta,Derecho,1
+4,K. B.,88,5,0.7,Baja,Derecho,0
+5,T. H.,102,40,0.9,Media,Izquierdo,1
+6,A. D.,65,15,0.6,Baja,Derecho,0
+7,J. K.,91,22,1.1,Alta,Derecho,1
+8,S. M.,75,30,0.4,Media,Izquierdo,0
+9,P. F.,105,45,1.2,Baja,Derecho,1
+10,V. S.,90,18,0.7,Alta,Izquierdo,1
+11,N. J.,82,8,0.5,Media,Derecho,0
+12,H. S.,115,33,1,Baja,Derecho,1
+13,F. D.,99,12,0.6,Media,Izquierdo,0
+14,I. M.,85,28,0.8,Alta,Derecho,1
+15,G. H.,70,20,0.9,Baja,Izquierdo,0
